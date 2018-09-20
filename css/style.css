@@ -1,0 +1,24 @@
+
+* {
+    transition: all 1s;
+    font-family: 'Homemade Apple', cursive;
+
+}
+.color-box {
+    height: 18rem;
+    margin-right: 4.5rem;
+    border-radius: .25rem;
+}
+
+.circle-center {
+
+    width: 10px;
+    height: 10px;
+    padding-bottom: 3%;
+    /*-moz-border-radius: 50px;*/
+    /*-webkit-border-radius: 50px;*/
+    border-radius: 50%;
+    text-align: center;
+    /*border: 5px solid white;*/
+    /*background-color: white;*/
+}
